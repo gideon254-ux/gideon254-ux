@@ -1,4 +1,4 @@
-<h1 align="center">Gideon (@gideon254-ux) 🚀</h1>
+<h1 align="center">Gideon (@gideon254-ux) </h1>
 
 <p align="center">
   <b>Systems Builder • Platform Architect • Backend Engineer</b>
@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-black?style=for-the-badge&logo=javascript" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Current Build
+##  Current Build
 
 - **HELIX** — Engineering Learning, Innovation & Expertise Platform  
 - Real-time community infrastructure  
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 Activity
+##  Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gideon254-ux&show_icons=true&theme=tokyonight" height="165"/>
@@ -44,6 +44,6 @@
 
 ---
 
-## 🌍 Vision
+## Vision
 
 Building infrastructure that enables developers to become architects of scalable systems.
