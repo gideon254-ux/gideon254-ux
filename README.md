@@ -1,4 +1,4 @@
-<!-- 🧬 Animated HELIX-style Header -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Gideon%20(@gideon254-ux)&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
@@ -23,8 +23,7 @@
 </p>
 
 ---
-
-## 🧠 Current Build
+## Current Focus
 
 - Real-time web infrastructure  
 - Scalable backend systems  
@@ -32,7 +31,7 @@
 
 ---
 
-## 📊 Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gideon254-ux&show_icons=true&theme=radical&hide_border=true" height="165"/>
@@ -43,9 +42,13 @@
   <img src="https://streak-stats.demolab.com?user=gideon254-ux&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gideon254-ux&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://github.com/gideon254-ux/gideon254-ux/blob/output/github-contribution-grid-snake.svg" />
@@ -53,7 +56,7 @@
 
 ---
 
-## 🌟 Vision
+##  Vision
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:434343&height=50&section=header&text=Turning+ideas+into+dynamic+web+experiences&fontSize=18&fontColor=ffffff&animation=fadeIn" />
