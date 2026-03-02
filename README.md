@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Gideon%20(@gideon254-ux)&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">⚙️ Systems Builder • Platform Architect • Backend Engineer</h2>
+<h2 align="center"> Systems Builder • Platform Architect • Backend Engineer</h2>
 
 <p align="center">
   Building scalable platforms, real-time systems, and intelligent automation pipelines.
