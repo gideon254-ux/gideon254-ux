@@ -48,7 +48,7 @@
 
 ---
 
-## Contribution Snake
+## Contribution
 
 <p align="center">
   <img src="https://github.com/gideon254-ux/gideon254-ux/blob/output/github-contribution-grid-snake.svg" />
